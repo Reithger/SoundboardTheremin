@@ -1,0 +1,2 @@
+# SoundboardTheremin
+ This was a third year project for Digital Electronics and Signal Processing to create a Theremin using a Raspberry Pi and some Ultrasonic Distance Sensors (not a real Theremin but an approximation), which went through several development cycles as problems came up. This serves mostly as an example of how to do neat audio in Java where you can control the Frequency, and as a warning that the Raspberry Pi audio is not optimized for how Java tries to do that.
